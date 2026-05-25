@@ -1,1 +1,29 @@
 # mlops-bootcamp-mlflow-intro
+
+Open source MLOps platform, end-to-end
+
+1) Core MLflow components for Data Science
+
+- Experiment tracking -> versioning considered + Hypothesis testing / Statistical analysis
+- Code structuring -> building pipelines
+- Model packaging and dependency management -> setup.py 
+- Evaluating hyperparameter tuning. Strongest feature of MLflow. -> Tracker
+- Compare results of model's versioning over time
+
+2) Core MLflow components for MLOps / ML Engineer
+
+- Manage the lifecycle of trained models, both pre and post deployment
+- Deploy models securely to the production environment
+- Manage deployment dependencies
+
+3) Core MLflow components for Prompt engineers
+
+- Evaluate and experiment with LLMs
+- Create custom prompts and experiments
+- Deciding on the best base model
+
+Good tool for collaborative projects due to the UI.
+
+
+
+# temp
