@@ -24,6 +24,13 @@ Open source MLOps platform, end-to-end
 
 Good tool for collaborative projects due to the UI.
 
+# Creating environment
 
+- conda create -p venv python==3.10 -y
+- conda activate venv/
+- requirements.txt
+- pip install -r requirements.txt
 
-# temp
+# Tracking server
+
+- 
