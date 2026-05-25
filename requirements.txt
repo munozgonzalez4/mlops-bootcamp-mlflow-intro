@@ -3,3 +3,7 @@ scikit-learn
 pandas
 numpy
 skops
+keras
+tensorflow
+hyperopt
+setuptools==69.5.1
