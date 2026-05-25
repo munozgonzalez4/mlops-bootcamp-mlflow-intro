@@ -33,4 +33,9 @@ Good tool for collaborative projects due to the UI.
 
 # Tracking server
 
-- 
+- See tracking server: Terminal: mlflow ui
+- Details in src/getting_started.ipynb
+
+# ML Project
+
+- Details in src/ml_project

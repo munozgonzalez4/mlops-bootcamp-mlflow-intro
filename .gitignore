@@ -5,6 +5,10 @@ ENV/
 .venv
 .env
 
+# ML artifacts
+artifacts/
+mlflow.db
+
 # Python
 __pycache__/
 *.py[cod]
@@ -44,7 +48,6 @@ mlruns/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Testing
 .pytest_cache/
