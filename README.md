@@ -39,3 +39,4 @@ Good tool for collaborative projects due to the UI.
 # ML Project
 
 - Details in src/ml_project
+- Includes MLflow tracking, inferencing and validating, model registry tracking
