@@ -81,3 +81,22 @@ This repository is my personal MLOps bootcamp notes and practical MLflow experim
 - Look inside `src/ann/mlruns/` and `src/house_price_prediction/mlartifacts/` to inspect raw artifact structures and saved model metadata.
 - If you revisit this repo later, start by opening the MLflow UI and reviewing experiment runs before rerunning training cells.
 - Consider cleaning or excluding the generated `venv/` folder from version control if the repo is shared.
+
+## MLflow notes from the bootcamp
+
+- Open source MLOps platform, end-to-end
+- Core MLflow components for Data Science
+   - Experiment tracking -> versioning considered + Hypothesis testing / Statistical analysis
+   - Code structuring -> building pipelines
+   - Model packaging and dependency management -> setup.py
+   - Evaluating hyperparameter tuning. Strongest feature of MLflow. -> Tracker
+   - Compare results of model's versioning over time
+- Core MLflow components for MLOps / ML Engineer
+   - Manage the lifecycle of trained models, both pre and post deployment
+   - Deploy models securely to the production environment
+   - Manage deployment dependencies
+- Core MLflow components for Prompt engineers
+   - Evaluate and experiment with LLMs
+   - Create custom prompts and experiments
+   - Deciding on the best base model
+-Good tool for collaborative projects due to the UI.
